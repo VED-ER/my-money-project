@@ -22,6 +22,7 @@ Live Site URL: [myMoney](https://mymoney-project-da5ae.web.app/login)
 - User can only view its personal spendings
 
 ## Screenshot
+![React App 11-23-2021 2-45-48 PM](https://user-images.githubusercontent.com/92994473/143035590-5311f683-d248-4a17-92b8-1b8eb5028dfb.png)
 
 
 
