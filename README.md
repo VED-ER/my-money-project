@@ -1,8 +1,8 @@
-# Google-calendar-clone
+# myMoney Project
 
-This is a similar version of google calendar where you can add,edit and delete events on each date.
+A personal money spending tracking app
 
-Live Site URL: [google-calendar-clone](https://calendar-b88c3.web.app/)
+Live Site URL: [myMoney](https://mymoney-project-da5ae.web.app/login)
 
 
 ## Built with
@@ -10,20 +10,19 @@ Live Site URL: [google-calendar-clone](https://calendar-b88c3.web.app/)
 - HTML
 - CSS
 - React
-- Date-fns library
+- Firebase
 
 
 ## Features:
 
-- Change current month by clicking on '<' and '>' buttons
-- Go to current date by clicking 'today' button
-- Add an event by clicking on '+' icon when hovering over any date
-- Edit an event by clicking on it
-- If there are more than 3 events on a single date, a 'x more' button will appear which when clicked, will show all the events on that date
-- When page is refreshed, all events are saved
+- Login
+- Signup
+- Realtime updates
+- Add or delete personal spendings
+- User can only view its personal spendings
 
 ## Screenshot
-![React App 11-22-2021 5-32-39 PM](https://user-images.githubusercontent.com/92994473/142899250-5d162da1-e722-4541-a142-b15f878a50ac.png)
+
 
 
 
